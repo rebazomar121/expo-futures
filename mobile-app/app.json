@@ -33,6 +33,10 @@
       "expo-camera",
       {
         "cameraPermission": "Allow Tester to access your camera."
+      },
+      "expo-barcode-scanner",
+      {
+        "cameraPermission": "Allow Tester to access your camera."
       }
     ]
   ]

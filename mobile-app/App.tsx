@@ -3,12 +3,14 @@ import { StyleSheet, Text, View } from "react-native"
 
 import Camera from "./pages/Camera"
 import Notification from "./pages/Notification"
+import BarcodeScanner from "./pages/BarcodeScanner"
 
 export default function App() {
   return (
     <View style={styles.container}>
       {/* <Camera /> */}
-      <Notification />
+      {/* <Notification /> */}
+      <BarcodeScanner />
     </View>
   )
 }
