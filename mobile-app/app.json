@@ -37,6 +37,10 @@
       "expo-barcode-scanner",
       {
         "cameraPermission": "Allow Tester to access your camera."
+      },
+      "expo-local-authentication",
+      {
+        "faceIDPermission": "Allow Tester to use Face ID."
       }
     ]
   ]
